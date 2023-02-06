@@ -12,7 +12,7 @@ How many rows does that dataset have?
 - [ ] 299,234
 - [ ] 822,132
 
-![Week 2 Question 1 Screenshot](resources/images/2023-02-05-20-24-44.png)
+![Week 2 Question 1 Screenshot](/images/2023-02-05-20-24-44.png)
 
 ## Question 2. Scheduling with Cron
 
@@ -25,7 +25,7 @@ Using the flow in `etl_web_to_gcs.py`, create a deployment to run on the first o
 - [ ] `5 * 1 0 *`
 - [ ] `* * 5 1 0`
   
-![Week 2 Question 2 Screenshot](resources/images/2023-02-05-20-26-32.png)
+![Week 2 Question 2 Screenshot](/images/2023-02-05-20-26-32.png)
 
 ## Question 3. Loading data to BigQuery 
 
